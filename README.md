@@ -8,7 +8,7 @@ I decided to examine the titanic data.  This consists of various demographic inf
 
 ##Design
 
-In examining this data, I used R.  Through this I was able to inspect the data, as well as formulate possible messages to display.  I decided that I would try to categorize by gender and age groups.  For my age groups, I chose to divide it into children from 0-18, young adult from 19-40, old adult from 41-65, and senior from 66+.  
+In examining this data, I used R.  Through this I was able to inspect the data, as well as formulate possible messages to display.  I decided that I would try to categorize by gender and age groups.  For my age groups, I chose to divide it into children from 0-18, young adult from 19-40, old adult from 41-65, and senior from 66+.  In choosing this project, I decided that I wanted to find out if kids and women would have a higher survival rate.  I decided to split the groups up into different age buckets and use that for my x axis.  In choosing my chart, I decided to go with a bar chart since the data I am examing is categorical rather than based on a chronological scale.  I decided to break up each age group category even further by gender.  In doing so, I was able to see the difference between survival rates between male and female in each age bucket.  Finally, I decided to add animation and user interaction in order to visually see the huge difference between survival rates and age groups.
 
 For my design I started off with a general chart broken up by class and showing the survivor numbers between female and male.  This chart lacks information in that it is only showing the number of survivors, but does not show the number of people that died.  Thus, it is hard to tell how many people survived out of the total number of people in each class and gender.
 
@@ -39,5 +39,3 @@ http://dimplejs.org/advanced_examples_viewer.html?id=advanced_interactive_legend
 https://discussions.udacity.com/t/project-titanic-data-visualization/31754
 https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.legend
 http://stackoverflow.com/questions/12643591/how-to-limit-d3-svg-axis-to-integer-labels
-
-
