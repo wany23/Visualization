@@ -1,6 +1,6 @@
 #Titanic Data Analysis
 *Wandrille Hubert*
-Note: index.html is the final version
+*Note: index.html is the final version*
 
 ##Summary
 
