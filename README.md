@@ -1,6 +1,6 @@
 #Titanic Data Analysis
-*Wandrille Hubert*
-*Note: index.html is the final version*
+######Wandrille Hubert
+######Note: index.html is the final version
 
 ##Summary
 
@@ -39,3 +39,5 @@ http://dimplejs.org/advanced_examples_viewer.html?id=advanced_interactive_legend
 https://discussions.udacity.com/t/project-titanic-data-visualization/31754
 https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.legend
 http://stackoverflow.com/questions/12643591/how-to-limit-d3-svg-axis-to-integer-labels
+
+
